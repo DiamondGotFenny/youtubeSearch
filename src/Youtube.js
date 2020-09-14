@@ -1,4 +1,4 @@
-const KEY = "AIzaSyCSfnYCOhPIbfXB9jfv_Ig8cpZwptGQwxI";
+const KEY = "mykey";
 const baseURL = "https://www.googleapis.com/youtube/v3";
 const searchEndpoint = "/search";
 
